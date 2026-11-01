@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Irina Miaritsiory ANDRIAMBOLOLONA</h1>
+<h1 align="center">👋 Hi, I'm Miaritsiory ANDRIAMBOLOLONA</h1>
 <h3 align="center">💻 Full-Stack Web Developer | Passionate about modern technologies</h3>
 
 <p align="center">
