@@ -141,6 +141,5 @@
 <p align="center">
   <i>⭐ Feel free to explore my repositories and reach out for any internship opportunity or collaboration!</i>
 </p>
-````
-````
+
 
