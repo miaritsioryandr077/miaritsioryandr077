@@ -69,36 +69,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🏛️ Centralized Management System for State Personnel
-> Institutional web application developed during my internship at the MEF/DGCF.
-
-**Stack:** `React.js` · `Tailwind CSS` · `CodeIgniter` · `PostgreSQL`
-
----
-
-### 🍽️ Restaurant Order Management Application
-> Food order management and restaurant operations tracking.
-
-**Stack:** `Next.js` · `Tailwind CSS` · `Node.js` · `Nest.js` · `MongoDB`
-
----
-
-### 📦 Product Stock Management Application
-> Stock management with product addition, data display and graphical statistics.
-
-**Stack:** `React.js` · `Tailwind CSS` · `Node.js` · `Express.js` · `MySQL`
-
----
-
-### ⛽ Gas Station Management Application
-> Fuel, customer and operations management, with PDF receipt generation and statistics.
-
-**Stack:** `Laravel` · `Bootstrap` · `MySQL`
-
----
-
 ## 🎓 Education
 
 | Year | Degree | Institution |
