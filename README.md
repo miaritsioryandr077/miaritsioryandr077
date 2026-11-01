@@ -144,4 +144,3 @@
 ````
 ````
 
-Remarque : ton README contient ton numéro de téléphone et ton adresse postale, et il est public sur GitHub. Tu peux les retirer si tu préfères limiter les informations visibles par n'importe qui.
