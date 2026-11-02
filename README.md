@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Miaritsiory ANDRIAMBOLOLONA</h1>
-<h3 align="center">💻 Full-Stack Web Developer | Passionate about modern technologies</h3>
+<h1 align="center">Hi, I'm Miaritsiory ANDRIAMBOLOLONA</h1>
+<h3 align="center">Full-Stack Web Developer | Passionate about modern technologies</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miaritsiory-andriambololona" target="_blank">
@@ -15,19 +15,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 In my final year of a **Professional Bachelor's Degree in Software Engineering & Databases** — École Nationale d'Informatique, University of Fianarantsoa (2024-2026)
-- 🎯 Looking for a **final-year internship** to validate my degree and contribute to real-world projects
-- 🛠️ Completed an internship at the **Ministry of Economy and Finance (MEF) — DGCF** in Madagascar
-- 🌱 Passionate about building **performant, scalable and well-structured** web applications
-- 📍 Based in **Antananarivo, Madagascar**
+- In my final year of a **Professional Bachelor's Degree in Software Engineering & Databases** — École Nationale d'Informatique, University of Fianarantsoa (2024-2026)
+- Looking for a **final-year internship** to validate my degree and contribute to real-world projects
+- Completed an internship at the **Ministry of Economy and Finance (MEF) — DGCF** in Madagascar
+- Passionate about building **performant, scalable and well-structured** web applications
+- Based in **Antananarivo, Madagascar**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🎨 Front-end
+### Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Back-end
+### Back-end
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -49,14 +49,14 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Languages
+### Tools & Languages
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - 🇲🇬 **Malagasy** — Native
 - 🇫🇷 **French** — Good
@@ -76,18 +76,19 @@
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📧 **Email:** [miaritsioryandriambololona@gmail.com](mailto:miaritsioryandriambololona@gmail.com)
-- 📱 **Phone:** 038 10 346 39 / 033 51 100 53
-- 📍 **Location:** Lot IVB 53 Ambohimiadana Sud, Antananarivo
-- 💼 **LinkedIn:** [miaritsiory-andriambololona](https://www.linkedin.com/in/miaritsiory-andriambololona)
-- 🐙 **GitHub:** [@miaritsioryandr077](https://github.com/miaritsioryandr077)
+- **Email:** [miaritsioryandriambololona@gmail.com](mailto:miaritsioryandriambololona@gmail.com)
+- **Phone:** 038 10 346 39 / 033 51 100 53
+- **Location:** Lot IVB 53 Ambohimiadana Sud, Antananarivo
+- **LinkedIn:** [miaritsiory-andriambololona](https://www.linkedin.com/in/miaritsiory-andriambololona)
+- **GitHub:** [@miaritsioryandr077](https://github.com/miaritsioryandr077)
+- **Portfolio:** https://miaritsiorydev.vercel.app/
 
 ---
 
 <p align="center">
-  <i>⭐ Feel free to explore my repositories and reach out for any internship opportunity or collaboration!</i>
+  <i>Feel free to explore my repositories and reach out for any internship opportunity or collaboration!</i>
 </p>
 
 
