@@ -86,12 +86,6 @@
 
 ---
 
-## ✨ Personal Qualities
-
-`Dynamic` · `Responsible` · `Reliable` · `Punctual` · `Curious` · `Motivated`
-
----
-
 ## 📫 Get in Touch
 
 - 📧 **Email:** [miaritsioryandriambololona@gmail.com](mailto:miaritsioryandriambololona@gmail.com)
