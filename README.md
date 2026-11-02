@@ -92,12 +92,6 @@
 
 ---
 
-## 🎯 Interests
-
-🏆 Sports · 🎮 Video Games · 🎵 Music
-
----
-
 ## 📫 Get in Touch
 
 - 📧 **Email:** [miaritsioryandriambololona@gmail.com](mailto:miaritsioryandriambololona@gmail.com)
