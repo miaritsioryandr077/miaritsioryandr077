@@ -69,15 +69,6 @@
 
 ---
 
-## 🎓 Education
-
-| Year | Degree | Institution |
-|------|--------|-------------|
-| 2024 - 2026 | Professional Bachelor's in Software Engineering & Databases *(ongoing)* | École Nationale d'Informatique — University of Fianarantsoa |
-| 2023 | Baccalauréat série D *(with Honors)* | Lycée Sainte Famille Anosivavaka — Antananarivo |
-
----
-
 ## 🌐 Languages
 
 - 🇲🇬 **Malagasy** — Native
