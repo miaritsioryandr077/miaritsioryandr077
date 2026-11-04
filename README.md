@@ -68,9 +68,8 @@
 
 - **Email:** [miaritsioryandriambololona@gmail.com](mailto:miaritsioryandriambololona@gmail.com)
 - **Phone:** 038 10 346 39 / 033 51 100 53
-- **Location:** Lot IVB 53 Ambohimiadana Sud, Antananarivo
+- **Location:** Lot IVB 53 Ambohimiadana Sud, Antananarivo, Madagascar
 - **LinkedIn:** [miaritsiory-andriambololona](https://www.linkedin.com/in/miaritsiory-andriambololona)
-- **GitHub:** [@miaritsioryandr077](https://github.com/miaritsioryandr077)
 - **Portfolio:** https://miaritsiorydev.vercel.app/
 
 ---
