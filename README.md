@@ -70,7 +70,7 @@
 - **Phone:** 038 10 346 39 / 033 51 100 53
 - **Location:** Lot IVB 53 Ambohimiadana Sud, Antananarivo, Madagascar
 - **LinkedIn:** [miaritsiory-andriambololona](https://www.linkedin.com/in/miaritsiory-andriambololona)
-- **Portfolio:** https://miaritsiorydev.vercel.app/
+- **Portfolio:** [miaritsiorydev](https://miaritsiorydev.vercel.app/)
 
 ---
 
