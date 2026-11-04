@@ -5,7 +5,7 @@
 
 ## About Me
 
-- In my final year of a **Professional Bachelor's Degree in Software Engineering & Databases** <br>— École Nationale d'Informatique, University of Fianarantsoa (2024-2026)
+- In my final year of a **Professional Bachelor's Degree in Software Engineering & Databases** — <br> École Nationale d'Informatique, University of Fianarantsoa (2024-2026)
 - Looking for a **final-year internship** to validate my degree and contribute to real-world projects
 - Completed an internship at the **Ministry of Economy and Finance (MEF) — DGCF** in Madagascar
 - Passionate about building **performant, scalable and well-structured** web applications
