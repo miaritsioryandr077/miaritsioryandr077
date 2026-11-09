@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miaritsiory ANDRIAMBOLOLONA</h1>
-<h3 align="center">Full-Stack Web Developer | Passionate about modern technologies</h3>
+<h3 align="center">Full-Stack Developer | Generative AI, LLM Applications & AI Integration</h3>
 
 ---
 
